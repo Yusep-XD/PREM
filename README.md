@@ -3,7 +3,7 @@
 ## Hasil
 
 [![Screenshot-20221012-122052.jpg](https://i.postimg.cc/Y2zSfTth/Screenshot-20221012-122052.jpg)](https://postimg.cc/G99rb78C)
-##Sekrip
+## SCRIPT
 
 
 $ pkg update && pkg upgrade
@@ -21,6 +21,6 @@ $ cd PREM
 $ git pull
 
 $ python OK.py
-## SCRIPT INI PREM YA TOD..!
+## SCRIPT INI PREM YA TOD🗿
 ## YANG MAU BELI FILE NYA SILAHKAN KE WA
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
