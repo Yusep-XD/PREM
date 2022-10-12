@@ -22,5 +22,5 @@ $ git pull
 
 $ python OK.py
 ## SCRIPT INI PREM YA TOD..!
-## KASIH BINTANG WOY🌟🌟🌟🌟🌟
+## YANG MAU BELI FILE NYA SILAHKAN KE WA
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
