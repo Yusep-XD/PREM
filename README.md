@@ -23,4 +23,5 @@ $ git pull
 $ python OK.py
 ## SCRIPT INI PREM YA TOD🗿
 ## YANG MAU BELI FILE NYA SILAHKAN KE WA
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-YusepXD-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6281383127594)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
