@@ -2,7 +2,7 @@
 
 ## Hasil
 
-[![Screenshot-20221012-122052.jpg](https://i.postimg.cc/Y2zSfTth/Screenshot-20221012-122052.jpg)](https://postimg.cc/G99rb78C)
+[![Screenshot-20221014-232815.jpg](https://i.postimg.cc/Z5nXdtxd/Screenshot-20221014-232815.jpg)](https://postimg.cc/21p0stJk)
 ## SCRIPT
 
 
